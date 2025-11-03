@@ -11,7 +11,7 @@ For the full version (with Flask backend and local LLaMA 3.2 AI model integratio
 ### Description
 This static version includes:
 - Frontend built with **HTML**, **CSS**, and **JavaScript**
-- Responsive layout optimized for deployment on platforms like GitHub Pages or Netlify
+- Responsive layout optimized for deployment on platforms.
 - Informational sections including **About Me**, **Projects**, **Skills**, and **Contact**
 
 ---
